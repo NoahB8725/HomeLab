@@ -1,0 +1,13 @@
+Local AWX (Ansible Automation Platform)
+
+System hardware requirements: 
+2vCPU
+4GB RAM
+32GB Storage
+
+Running on: K3s on Ubuntu 26.04 server
+K3s setup:
+  curl -sfL https://get.k3s.io | sh -
+AWX setup: 
+  AWX on single node K3s (Medium)
+
